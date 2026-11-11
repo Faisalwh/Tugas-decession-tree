@@ -12,7 +12,7 @@ Skenario 1: Pengujian Data Terbatas (Sesuai Hitungan Manual)
 - Visualisasi: Menampilkan plot 5 pohon sederhana secara berdampingan.
 - Tujuan: Memahami cara kerja dasar Random Forest secara manual/terbatas untuk mengklasifikasikan kemungkinan 'Panjang Umur'. Model pada tahap ini dibatasi pembelajarannya menyerupai model dasar (stump) untuk membuktikan konsep algoritma CART, sehingga wajar jika akurasi atau tebakan awalnya belum maksimal.
 
-Skenario 2: Pengujian Seluruh Data (Sesuai Permintaan Tugas)
+Skenario 2: Pengujian Seluruh Data
 - Dataset: Menggunakan seluruh baris data dalam CSV dengan pembagian 80% untuk data latih dan 20% untuk data uji (menggunakan metode stratify agar komposisi label tetap seimbang).
 - Parameter Model: 100 Pohon Keputusan (n_estimators=100) dengan parameter standar bawaan model, sehingga Random Forest bekerja dengan kapasitas optimal.
 - Visualisasi: Hanya menampilkan visualisasi 10 pohon pertama untuk kebutuhan presentasi (agar tampilan jendela grafik rapi, tidak memberatkan perangkat, dan label teks tetap terbaca).

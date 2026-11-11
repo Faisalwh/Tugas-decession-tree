@@ -1,8 +1,8 @@
 📂 Struktur File
 Pastikan file dataset berada di dalam satu folder yang sama dengan script Python yang akan dijalankan:
 - Updated Quality of Life Data.csv : File dataset utama yang berisi data kualitas hidup.
-- Program_Random_Forest_Visualisasi.py : Script untuk Skenario 1 (Menggunakan 11 data awal dan visualisasi 5 pohon).
-- Program_RF_Seluruh_Data_Teman.py : Script untuk Skenario 2 (Menggunakan seluruh data).
+- 10_Data_latih_dan_1_Data_Uji.py : Script untuk Skenario 1 (Menggunakan 11 data awal dan visualisasi 5 pohon).
+- Semua_Data.py : Script untuk Skenario 2 (Menggunakan seluruh data).
 
 🚀 Skenario Pengujian
 
